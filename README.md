@@ -1,0 +1,3 @@
+Student Record Management System
+
+Student Record Management System is used for maintaining the records of the students regarding the admission and exammination part. This application is mainly designed for maintaining the details of the dental student to help the colleges in maintaining their details with great ease. This will reduce the pen paper work in maintaining the details of the students of the dental college. Most of the times the students details will be maintained in huge heap of files. At the time in order to get the details of any students, it needs to be searched in such huge heap of files. Through the use of this application, it will help to reduce this problem and information of any student can be obtained just in one click....
